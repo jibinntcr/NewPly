@@ -55,9 +55,17 @@
     height: 48px;
 }
 
+.btn-lg-circle {
+    width: 48px;
+    height: 48px;
+    border-radius: 50px;
+}
+
 .btn-square,
 .btn-sm-square,
+.btn-lg-circle,
 .btn-lg-square {
+
     padding: 0;
     display: flex;
     align-items: center;
@@ -521,7 +529,7 @@
 
 /*** Footer ***/
 .footer {
-    background:#2eb872f5;
+    background: #2eb872f5;
     background-size: cover;
 }
 
