@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #2EB872;
+    --primary: #c74a5d;
     --light: #F3F4F5;
     --dark: #282F34;
 }
@@ -257,7 +257,7 @@
     display: flex;
     justify-content: space-between;
 }
-
+/* 
 .header-carousel .owl-nav .owl-prev,
 .header-carousel .owl-nav .owl-next {
     width: 40px;
@@ -318,7 +318,7 @@
 
 .breadcrumb-item+.breadcrumb-item::before {
     color: var(--light);
-}
+} */
 
 
 /*** Img Border ***/
@@ -529,7 +529,7 @@
 
 /*** Footer ***/
 .footer {
-    background: #2eb872f5;
+    background: #c74a5df5;
     background-size: cover;
 }
 
