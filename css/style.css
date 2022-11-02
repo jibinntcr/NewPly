@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #c74a5d;
+    --primary: #dd1836;
     --light: #F3F4F5;
     --dark: #282F34;
 }
@@ -529,7 +529,7 @@
 
 /*** Footer ***/
 .footer {
-    background: #c74a5df5;
+    background: #dd1836f5;
     background-size: cover;
 }
 
